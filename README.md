@@ -1,6 +1,9 @@
-# TDD - String Calculator
-
+# TDD - Test Driven Development
 Este projeto foi desenvolvido aplicando a técnica de TDD (Test Driven Development) ou Desenvolvimento guiado por testes em português.
+
+## Programa String Calculator
+
+
 
 O programa recebe uma string com dois valores separados por virgula. Busca atender basicamente os seguintes requisitos:
 
